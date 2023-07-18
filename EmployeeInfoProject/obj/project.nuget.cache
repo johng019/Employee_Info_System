@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ocfA+ZxAoxGSHs+7A4PHMqLbKCm9q7r12iSsCPhypkYRuoRbV6y3aL4xqYFrALScMqPEJDqNYPXzWNSl9Gorhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Specialty Shops #3\\source\\Employee-Info\\EmployeeInfoProject\\EmployeeInfoProject\\EmployeeInfoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Specialty Shops #3\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Specialty Shops #3\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Specialty Shops #3\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Specialty Shops #3\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Specialty Shops #3\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Specialty Shops #3\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

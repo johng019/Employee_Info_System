@@ -1,0 +1,24 @@
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.deps.json
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.runtimeconfig.json
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.runtimeconfig.dev.json
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.dll
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.pdb
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.csproj.CoreCompileInputs.cache
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.AssemblyInfoInputs.cache
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.AssemblyInfo.cs
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.dll
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.pdb
+C:\Users\Gary0958\Source\Repos\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.csprojResolveAssemblyReference.cache
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.AssemblyInfoInputs.cache
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.AssemblyInfo.cs
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.deps.json
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.runtimeconfig.json
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.runtimeconfig.dev.json
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.dll
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\bin\Debug\netcoreapp2.0\EmployeeInfoProject.pdb
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.dll
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.pdb
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.csproj.AssemblyReference.cache
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.csproj.CoreCompileInputs.cache
+C:\Users\Specialty Shops #3\source\Employee-Info\EmployeeInfoProject\EmployeeInfoProject\obj\Debug\netcoreapp2.0\EmployeeInfoProject.genruntimeconfig.cache
